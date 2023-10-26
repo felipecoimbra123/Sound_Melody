@@ -1,0 +1,29 @@
+.bg-primary {
+    background-color: #05445E !important;
+}
+
+.bg-secondary {
+    background-color: #189AB4 !important;
+}
+
+.bg-white{
+    background-color: #E2E2E2 !important;
+}
+
+h2{
+    width: 20vw;
+}
+
+header > nav {
+    width: 10vw;
+}
+
+figure:hover,
+figure:focus {
+    transform: translateX(10px) scale(1.2);
+    transition: 1.3s;
+}
+
+img {
+    width: 30vw;
+}
