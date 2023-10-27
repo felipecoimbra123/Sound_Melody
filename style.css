@@ -12,6 +12,7 @@
 
 h2{
     width: 20vw;
+    font-family: 'Alfa Slab One', serif;
 }
 
 header > nav {
@@ -26,4 +27,8 @@ figure:focus {
 
 img {
     width: 30vw;
+}
+
+header {
+    font-family: 'Alfa Slab One', serif;
 }
