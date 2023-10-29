@@ -32,3 +32,7 @@ img {
 header {
     font-family: 'Oswald', sans-serif;
 }
+
+.shadow {
+    filter: drop-shadow( 8px 8px 8px #e2e2e2e2);
+}
