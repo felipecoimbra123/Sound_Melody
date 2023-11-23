@@ -1,3 +1,3 @@
-### Site de música feito em aula no Ensino Médio Senac.
+### Site de música:
 
 https://felipecoimbra123.github.io/Sound_Melody/
